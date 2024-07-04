@@ -1,0 +1,5 @@
+![Screenshot_1720117621](https://github.com/bardaga/calculatorA1/assets/164914085/877f448c-a8b6-41ea-8532-746b2f4114bd)
+![Screenshot_1720117634](https://github.com/bardaga/calculatorA1/assets/164914085/d415c8ce-14fa-4d43-85c0-5cadb9b04ebe)
+![Screenshot_1720117639](https://github.com/bardaga/calculatorA1/assets/164914085/d1b50a0d-f10a-46e6-9117-4357e28d11ec)
+![Screenshot_1720117643](https://github.com/bardaga/calculatorA1/assets/164914085/6ecdb59e-38de-4af0-8152-f69abb11209c)
+![Screenshot_1720117648](https://github.com/bardaga/calculatorA1/assets/164914085/30987321-ee9d-4073-a054-ad977be08650)
